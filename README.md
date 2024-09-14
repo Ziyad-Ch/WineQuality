@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes the Wine Quality Dataset, focusing on red variants of Portuguese "Vinho Verde" wine. We explore the relationships between various chemical properties and wine quality ratings to gain insights and build predictive models.
+From Kaggle https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 ## Dataset Description
 The dataset includes the following features:
